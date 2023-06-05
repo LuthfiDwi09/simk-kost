@@ -5,4 +5,4 @@
 # num1 = 10
 # num2 = 5
 # result = subtract(num1, num2)
-# print("Hasil pengurangan:", result) ini versi 2
+# print("Hasil pengurangan:", result) ini versi 2 sudah betul
